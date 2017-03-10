@@ -4,7 +4,7 @@ var About = (props) => {
   return (
     <div>
       <h1 className="text-center">About</h1>
-      <p>This is a weather applicaiton built for learning React!</p>
+      <p>This is a weather application built for learning React!</p>
       <p>
         Here are some of the tools I used:
       </p>
